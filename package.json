@@ -1,0 +1,15 @@
+{
+  "name": "generate-bear-offset-queries",
+  "version": "1.0.0",
+  "description": "Generates querysets for benchmarking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Taelman <ruben.taelman@ugent.be>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "ostrich-bindings": "0.0.1"
+  }
+}

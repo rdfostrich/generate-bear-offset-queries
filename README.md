@@ -1,0 +1,1 @@
+A simple script for generating querysets with offsets based on an OSTRICH store.
