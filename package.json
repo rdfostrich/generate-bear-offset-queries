@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4",
-    "ostrich-bindings": "0.0.1"
+    "ostrich-bindings": "1.2.3"
   }
 }
